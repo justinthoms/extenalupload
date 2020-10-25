@@ -1,9 +1,10 @@
 {
   "name": "AnyDLBot",
-  "description": "Telegram extenal url uploader",
+  "description": "Telegram's best Open Source ALL-In-One Multi Purpose RoBot. Create your Fork now.",
   "keywords": [
     "telegram",
     "best",
+    "youtube",
     "downloader",
     "open",
     "source",
@@ -13,9 +14,9 @@
     "remote",
     "uploader"
   ],
-  "success_url": "https://telegram.dog/Anihbot",
-  "website": "https://github.com/justinthoms/ALL-IN-one",
-  "repository": "https://github.com/justinthoms/ALL-IN-one",
+  "success_url": "https://telegram.dog/AnyDLBot",
+  "website": "https://github.com/SpEcHiDe/AnyDLBot",
+  "repository": "https://github.com/SpEcHiDe/AnyDLBot",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
